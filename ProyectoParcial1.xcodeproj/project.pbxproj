@@ -18,6 +18,7 @@
 		F526FA4726FA303800A43CEA /* cat.wav in Resources */ = {isa = PBXBuildFile; fileRef = F526FA4426FA303800A43CEA /* cat.wav */; };
 		F526FA4826FA303800A43CEA /* dog.wav in Resources */ = {isa = PBXBuildFile; fileRef = F526FA4526FA303800A43CEA /* dog.wav */; };
 		F526FA4A26FA9F4B00A43CEA /* fondo.wav in Resources */ = {isa = PBXBuildFile; fileRef = F526FA4926FA9F4B00A43CEA /* fondo.wav */; };
+		F526FA4C26FB68DB00A43CEA /* Jackpot.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F526FA4B26FB68DB00A43CEA /* Jackpot.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		F526FA4426FA303800A43CEA /* cat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = cat.wav; sourceTree = "<group>"; };
 		F526FA4526FA303800A43CEA /* dog.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = dog.wav; sourceTree = "<group>"; };
 		F526FA4926FA9F4B00A43CEA /* fondo.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = fondo.wav; sourceTree = "<group>"; };
+		F526FA4B26FB68DB00A43CEA /* Jackpot.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Jackpot.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 		3D54047726EC1C26008EF665 /* ProyectoParcial1 */ = {
 			isa = PBXGroup;
 			children = (
+				F526FA4B26FB68DB00A43CEA /* Jackpot.ttf */,
 				F526FA4926FA9F4B00A43CEA /* fondo.wav */,
 				F526FA4426FA303800A43CEA /* cat.wav */,
 				F526FA4526FA303800A43CEA /* dog.wav */,
@@ -244,6 +247,7 @@
 				3D54048326EC1C4F008EF665 /* LaunchScreen.storyboard in Resources */,
 				F526FA4626FA303800A43CEA /* rooster.wav in Resources */,
 				3D54048026EC1C4F008EF665 /* Assets.xcassets in Resources */,
+				F526FA4C26FB68DB00A43CEA /* Jackpot.ttf in Resources */,
 				F526FA4826FA303800A43CEA /* dog.wav in Resources */,
 				F526FA4A26FA9F4B00A43CEA /* fondo.wav in Resources */,
 				F526FA4726FA303800A43CEA /* cat.wav in Resources */,
